@@ -1,0 +1,6 @@
+framework module Pods_HHYGPUImage {
+  umbrella header "Pods-HHYGPUImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SkinCareGPUImageFilter {
+  umbrella header "Pods-SkinCareGPUImageFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}
